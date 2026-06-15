@@ -21,7 +21,7 @@ By integrating data transformation, relational database queries, and interactive
 ## 🚀 Dashboard Preview
 
 ### HR Analytics Dashboard
-![HR Analytics Dashboard](hr_analytics_Dashboard.jpg)
+![HR Analytics Dashboard](https://github.com/adharsh-kv/HR-Analytics-Dashboard/blob/main/hr_analytics_Dashboard.png)
 
 ---
 
